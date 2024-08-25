@@ -4,7 +4,7 @@
 This project focuses on cleaning and analyzing the layoffs dataset using SQL. The primary goal was to process and refine the raw data, ensuring it was ready for in-depth analysis. This README provides details about the dataset, the data cleaning steps, and instructions for using the provided SQL scripts.
 
 ## Dataset
-- **File:** [layoffs_dataset] layoffs.csv
+- **File:** [layoffs_dataset] (https://github.com/Thiruvariyamuthu/SQL-DataCleaning-Project/blob/ab1fde1b8dc218bfd861439aaad29c337410178e/layoffs.csv)
 - **Description:** This dataset includes records of layoffs across various companies, detailing company names, the number of employees laid off, and the dates of layoffs. This file was used as the input for the data cleaning project.
 
 ## Data Cleaning Process
