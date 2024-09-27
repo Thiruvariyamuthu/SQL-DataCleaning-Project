@@ -13,6 +13,7 @@ This project focuses on cleaning and analyzing the layoffs dataset using SQL. Th
 3. **Handled Null and Blank Values:** Reviewed remaining null or blank values, made decisions on whether to delete or impute them, and applied the necessary changes.
 4. **Removed Unnecessary Columns and Rows:** Deleted columns and rows that were not required for the analysis to streamline the dataset.
 
+Click the link to see the Exploratory Data Analysis (EDA) README.[https://github.com/Thiruvariyamuthu/EDA-with-SQL]
 ## Tools Used
 - SQL
 - MySQL Workbench (or any other SQL client)
